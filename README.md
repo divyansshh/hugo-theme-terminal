@@ -68,7 +68,7 @@
 
 #### Code highlighting
 
-A custom syntax highlighting based on PrismJS. All you need to do is to wrap you code like this:
+A custom syntax highlighting based on PrismJS. All you need to do is to wrap you code like this:-
 
 ````
 ```html
